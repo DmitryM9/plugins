@@ -1,3 +1,7 @@
+## 4.5.4
+
+* Fix serverAuthCode on Android.
+
 ## 4.5.3
 
 * Update package:e2e -> package:integration_test
